@@ -1,0 +1,22 @@
+{
+  "name": "web3server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "ethereumjs-util": "^7.1.5",
+    "express": "^4.18.2",
+    "http": "0.0.1-security",
+    "pg": "^8.8.0",
+    "uuid": "^9.0.0",
+    "web3": "^1.8.1"
+  }
+}
